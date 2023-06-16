@@ -1,3 +1,11 @@
+% This was the major work for COMP1000 Intro to Computer Programming. 
+% To play, click the start button. 
+% To move the spaceship up, press or hold 'W'
+% To move the spaceship down, press or hold 'S'
+% To shoot the laser at the moons, press 'space'
+% You can only shoot one laser at a time, if you fly past a moon without destroying it the game is over. 
+% Good luck!
+
 float shipx;
 float shipy;
 float shipspeed = 5;
