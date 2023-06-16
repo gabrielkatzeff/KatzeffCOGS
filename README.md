@@ -31,6 +31,10 @@ We followed this course structure, https://github.com/crossley/cogs2020, I achie
 * Repeated measures and mixed design ANOVA by hand and using R
 * Simple and multiple linear regression
 
+We cleansed datasets and performed hypothesis tests using R. 
+
+## COGS2250: Cognitive and Brain Sciences Laboratory
+As a cohort we participated in and analysed behavioural and neuroimaging data from a semantic priming experiment. We programmed the experimental stimulus using PsychoPy, processed the data in R, performed statistical analysis in Jamovi, and correlated our results in MATLAB with an EEG waveform.
 
 ## COGS2030: Hearing and Brain
 A major component of this unit was learning MATLAB to perform digital signal processing. The final coding assessment for this unit is attatched, I achieved 87/100 for this unit and 99% in the coding component.
