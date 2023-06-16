@@ -44,4 +44,4 @@ We covered:
 * Custom pre-processing in MATLAB
 * Custom filter design in MATLAB
 * Fundamental frequency estimation
-* Speech and formamt analysis
+* Speech and formant analysis
