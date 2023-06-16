@@ -22,3 +22,6 @@ All of the examples included here are executable in Processing and generate a gr
 ## COGS2020: Experimental Design and Data Analysis for the Cognitive and Brain Sciences
 We practiced using R and the data table package to analyse statistical information related to cognitive science experiments. 
 We followed this course structure, https://github.com/crossley/cogs2020, I achieved 86/100 for this unit. 
+
+## COGS2030: Hearing and Brain
+A major component of this unit was learning MATLAB to perform digital signal processing. 
