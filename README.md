@@ -60,6 +60,7 @@ Overall we found the models were consistent with the previous findings that LSTM
 ![1680 line](https://github.com/gabrielkatzeff/KatzeffCOGS/assets/89640578/53b73798-c2d9-4362-acd7-ddbc81e7002b)
 
 ## Independent
-1. Programmed a tumour classifcation neural network in python using tensorflow, attached. 
+1. Programmed a tumour classifcation neural network in python using tensorflow following [instruction]([url](https://www.youtube.com/watch?v=z1PGJ9quPV8)), please use for the dataset: [cancer.csv](https://github.com/gabrielkatzeff/KatzeffCOGS/files/11767640/cancer.csv)
+
 2. 
 
