@@ -17,3 +17,8 @@ The course followed Daniel Schiffman's 'Learning Processing' textbook, and cover
 
 Throughout, we had the opportunity to use [Processing]([url](https://processing.org/download)), which has a beginner friendly UI and outputs graphics to the display. 
 All of the examples included here are executable in Processing and generate a graphical output. 
+
+
+## COGS2020: Experimental Design and Data Analysis for the Cognitive and Brain Sciences
+We practiced using R and the data table package to analyse statistical information related to cognitive science experiments. 
+We followed this course structure, https://github.com/crossley/cogs2020, I achieved 86/100 for this unit. 
