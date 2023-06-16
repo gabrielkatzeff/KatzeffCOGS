@@ -24,4 +24,4 @@ We practiced using R and the data table package to analyse statistical informati
 We followed this course structure, https://github.com/crossley/cogs2020, I achieved 86/100 for this unit. 
 
 ## COGS2030: Hearing and Brain
-A major component of this unit was learning MATLAB to perform digital signal processing. 
+A major component of this unit was learning MATLAB to perform digital signal processing. The final coding assessment for this unit is attatched, I achieved 87/100 for this unit and 99% in the coding component.
