@@ -53,7 +53,13 @@ We covered:
 ## COGS3250: Advanced Research Experience and Training
 This selective entry unit was designed for cognitive science students to gain research experience in an area of interest, our research project investigated the ability of long-short term memory (LSTM) artificial neural networks to accurately predict human target selection decisions in a virtual shepherding task while collaborating with an artifical agent. The models were written by our research supervisor and will not be shared, we manipulated the code to develop models that varied in their: input featureset, lookback, and prediction horizon. 
 
+* All code was written in Python, we used TensorFlow 2.8 and Keras
+
 Overall we found the models were consistent with the previous findings that LSTMs were able to accurately predict target-selection decisions at varying timepoints in the future, although we found that models were not able to accurately predict the decision to select no target (i.e., target 0). The participant could opt to stop in place or select or select a location other than a target. The model's predictive accuracy for this decision notably decreased as the the prediction horizon increased. 
 
-![alt text](http://url/to/img.png)
 ![1680 line](https://github.com/gabrielkatzeff/KatzeffCOGS/assets/89640578/53b73798-c2d9-4362-acd7-ddbc81e7002b)
+
+## Independent
+1. Programmed a tumour classifcation neural network in python using tensorflow, attached. 
+2. 
+
