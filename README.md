@@ -62,5 +62,3 @@ Overall we found the models were consistent with the previous findings that LSTM
 ## Independent
 1. Programmed a tumour classifcation neural network in python using tensorflow following [instruction]([https://www.youtube.com/watch?v=z1PGJ9quPV8](https://www.youtube.com/watch?v=z1PGJ9quPV8)), please use this for the dataset: [cancer.csv](https://github.com/gabrielkatzeff/KatzeffCOGS/files/11767640/cancer.csv)
 
-2. 
-
